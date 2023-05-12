@@ -1,4 +1,4 @@
-# task1-python
+# task1-python-Hackerrank
 This file contains certain basic python problems /introductory questions.
 ## 1. Printing "Hello world!"
 ## 2. Checking for odd/even and printing outputs assisting them.
